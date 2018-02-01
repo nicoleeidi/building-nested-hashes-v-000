@@ -4,14 +4,14 @@ def fourth_challenge
       :patriarch => {name: "Lord Montague", age: "53"},
       :matriarch => {name: "Lady Montague", age: "54"},
       :hero => {name: "Romeo", age: "15", status: "alive"},
-      :hero_friends => [ {
-        :name => "Benvolio"
-        :age => "17"
+      :hero_friends => [{
+        :name => "Benvolio",
+        :age => "17",
         :attitude => "worried"
       },
         {
-        :name => "Mercutio"
-        :age => "18"
+        :name => "Mercutio",
+        :age => "18",
         :attitude => "hot-headed"
       }]
       #your hashes here!
@@ -25,7 +25,7 @@ def fourth_challenge
         {:name => "Nurse",
         :age => "44",
         :attitude => "worried"}]
-      
+
    }
 }
 
